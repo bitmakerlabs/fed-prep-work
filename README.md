@@ -37,7 +37,7 @@ We’ve compiled a list of tools you’ll need to get started. If you do not hav
   - Git is a distributed version control and source code management system. That means it lets you keep track of all of your changes in a structured way.
 - [Github Desktop Application](https://desktop.github.com/)
  - There are a variety of web-based Git repository hosting services such as [GitLab](https://about.gitlab.com/gitlab-com/), [Bitbucket](https://bitbucket.org/), and [Github](https://github.com/). For the purposes of this course, we'll be using Github. 
- - While we'll be learning Git commands in the command line, a text-based interface, Github's desktop application is available for those of you who are more comfortable working with visual interfaces. 
+ - While we'll be learning Git commands in a text-based interface known as the command line, Github's desktop application is available for those of you who are more comfortable working with visual interfaces. 
 
 ### The Command Line Interface
 
