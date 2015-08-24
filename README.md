@@ -29,12 +29,9 @@ We’ve compiled a list of tools you’ll need to get started. If you do not hav
 
 - [Git](http://git-scm.com/)
   - Git is a distributed version control and source code management system. That means it lets you keep track of all of your changes in a structured way.
-- [NodeJS](http://nodejs.org/)
- - The technical jargon: Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
- - What you need to know: We'll be using Node to manage some of the developer tools we'll be installing later on.
-- [Yeoman](http://yeoman.io/)
-  - Helps us install some of the other tools we'll need to be effective
-  - The Bitmaker Generator will be your best friend for starting new projects
+- [Github Desktop Application](https://desktop.github.com/)
+ - There are many different web-based Git repository hosting services such as [GitLab](https://about.gitlab.com/gitlab-com/), [Bitbucket](https://bitbucket.org/), and [Github](https://github.com/). For the purposes of this course, we'll be using Github. 
+ - While we'll be learning the Git commands in the command line (text-based interface), Github's desktop application is available for those of you who are more comfortable working with visual interfaces. 
 
 ### The Command Line Interface
 
