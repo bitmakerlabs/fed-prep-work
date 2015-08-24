@@ -18,7 +18,7 @@ Unix / Linux based and, hence, so are many of the better tools.
 
 ### Accounts to Create Before First Class
 - [Alexa](https://alexa.bitmakerlabs.com/)
- - Alexa is the learning platform we use at Bitmaker. You'll find all the material, screencasts, and assignments on Alexa. Signing up is simple. We'll be sending you an invitation to join our platform. Keep a look out in your inbox!
+ - Alexa is the learning platform we use at Bitmaker. You'll find all the material, screencasts, and assignments on Alexa. Signing up is simple. **We'll be sending you an invitation to join our platform.** Keep a look out in your inbox!
 - [Github](https://github.com/join)
  - Github is the service we use to share our code with one another. To get started, create an account. We'll be collecting your Github username once the course starts.
 
