@@ -26,8 +26,8 @@ Unix / Linux based and, hence, so are many of the better tools.
 
 We’ve compiled a list of tools you’ll need to get started. If you do not have these tools configured, please download and install them using the below links.
 
-- [Sublime Text](http://www.sublimetext.com/3)
-  - Our favorite text editor! You could use TextMate, Notepad++, vim, or any other text editor instead, but Sublime Text is armed with a number of time saving shortcuts and great syntax highlighting. Sublime Text is a very easy to use text editor. It’s also the industry standard for web developers. The free trial works just fine, although it frequently prompts you to purchase.
+- [Atom](https://atom.io/)
+  - Our favorite text editor! You could use TextMate, Notepad++, vim, or any other text editor instead, but Atom is armed with a number of time saving shortcuts and great syntax highlighting. Atom is a very easy to use text editor. It’s also the industry standard for web developers.
 - [Google Chrome](https://www.google.com/intl/en/chrome/browser/)
   - We prefer Google Chrome because of its speed, ease of use and built-in web inspector (a tool designers and developers use for examining the structure of an HTML document and debugging JavaScript).
 
