@@ -16,9 +16,9 @@ Unix / Linux based and, hence, so are many of the better tools.
 
 ## Getting Started
 
-### Accounts to Create Before First Class
+### Accounts You'll Need
 - [Alexa](https://alexa.bitmakerlabs.com/)
- - Alexa is the learning platform we use at Bitmaker. You'll find all the material, screencasts, and assignments on Alexa. Signing up is simple. **We'll be sending you an invitation to join our platform.** Keep a look out in your inbox!
+ - Alexa is the learning platform we use at Bitmaker. You'll find all the material, screencasts, and assignments on Alexa. **We'll be sending you an invitation to join our platform.** Keep a look out in your inbox on the first day of class!
 - [Github](https://github.com/join)
  - Github is the service we use to share our code with one another. To get started, create an account. We'll be collecting your Github username once the course starts.
 
@@ -67,7 +67,7 @@ Below are a series of readings and questions designed to help you practice, appl
 7. What is a Class selector?
 8. How would you select a class of "heading"?
 
-### Suggested Assignments
+### Assignments
 
 1. [Codecademy - HTML Basics](http://www.codecademy.com/tracks/web)
 2. [Codecademy - Building Your Own Webpage](http://www.codecademy.com/tracks/web)
