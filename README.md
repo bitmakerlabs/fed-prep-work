@@ -43,7 +43,7 @@ We’ve compiled a list of tools you’ll need to get started. If you do not hav
 
 The command line interface is like the text-based version of Finder or Windows Explorer. It allows you to navigate your file system and run commands and programs by calling them by name rather than by clicking on icons. Before we get going with the course, if you're not familiar with using the command line interface of your operating system (as I'm sure most of you aren't), it'll be useful to learn the basics so that you'll feel more comfortable going forward with the course. This is one of the fundamental tools that developers use and some of the tools we'll be using in the course will require some basic familiarity with how it works. 
 
-To get up to speed, [follow the tracks on this site](http://cli.learncodethehardway.org/book/), at least until you hit "Moving a file" (you can keep going if you want to learn more, obviously!). It shouldn't take too long and it'll be worth the investment.
+To get up to speed, [complete our tutorial on command line fundamentals](https://github.com/bitmakerlabs/command-line-fundamentals).
 
 ---
 
