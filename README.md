@@ -66,8 +66,3 @@ Below are a series of readings and questions designed to help you practice, appl
 6. What is a CSS selector?
 7. What is a Class selector?
 8. How would you select a class of "heading"?
-
-### Assignments
-
-1. [Codecademy - HTML Basics](http://www.codecademy.com/tracks/web)
-2. [Codecademy - Building Your Own Webpage](http://www.codecademy.com/tracks/web)
